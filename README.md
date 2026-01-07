@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virendra Lokhande</h1>
 <h3 align="center">Computer Science & Design undergrad | Backend Developer (Java - Spring Boot - SQL)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virendra-007" alt="virendra-007" /></a> </p>
 
 - 🔭 I’m currently working on **Building Spring Boot REST APIs + MySQL projects**
 
@@ -64,5 +63,4 @@
   <a href="https://www.leetcode.com/virendra_007" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
     alt="LeetCode" height="35" width="45" />
-  </a>
-</p>
+  
